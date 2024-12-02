@@ -14,18 +14,22 @@ const estilos = StyleSheet.create({
     color: '#107c0f',
     marginBottom: 5,
   },
+
   subtitulo: {
     color: '#b2b2b2',
     fontWeight: "bold",
     fontSize:20,
     marginBottom: 20,
   },
+
   paragrafo: {
     color: '#b2b2b2',
+    fontWeight: "normal",
     width: 320,
     marginBottom: 10,
     textAlign: "center"
   },
+  
   img: {
     width: 320,
     height: 180,

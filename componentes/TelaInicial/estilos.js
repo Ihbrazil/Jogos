@@ -8,20 +8,24 @@ const estilos = StyleSheet.create({
     backgroundColor: '#2c2e2d',
     padding: 15,
   },
+
   img: {
     width: 80,
     height: 80,
     borderRadius: 100,
     marginBottom: 10,
   },
+
   titulo: {
-    fontSize:26,
+    fontSize: 26,
     fontWeight: "bold",
     color: '#107c0f',
     marginBottom: 5,
   },
+
   descricao: {
     color: '#b2b2b2',
+    fontWeight: "normal",
     textAlign: "center",
     width: 320,
     marginBottom: 25,
@@ -45,6 +49,7 @@ const estilos = StyleSheet.create({
     marginBottom: 10,
     marginRight: 10,
   },
+
   cardTexto: {
     fontSize: 18,
     color: '#fff',

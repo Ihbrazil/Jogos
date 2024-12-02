@@ -15,7 +15,9 @@ const estilos = StyleSheet.create({
     color: '#107c0f',
     marginBottom: 5,
   },
+
   descricao: {
+    fontWeight: "normal",
     color: '#b2b2b2',
     textAlign: "center",
     width: 320,
@@ -26,11 +28,13 @@ const estilos = StyleSheet.create({
     width: 320,
     marginBottom: 50,
   },
+
   card: {
     width: 320,
     height: 180,
     marginBottom: 10,
   },
+
   cardTitulo: {
     fontSize: 22,
     fontWeight: "bold",
@@ -38,7 +42,9 @@ const estilos = StyleSheet.create({
     paddingHorizontal: 15,
     paddingVertical: 5,
   },
+
   paragrafo: {
+    fontWeight: "normal",
     color: '#d5d5d5',
   }
 });
